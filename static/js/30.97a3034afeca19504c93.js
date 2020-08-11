@@ -1,0 +1,2 @@
+webpackJsonp([30],{ZOQH:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"personal"},[e("group",[e("cell",{attrs:{title:"昵称",value:"个人信息","is-link":!0}})],1)],1)},staticRenderFns:[]};var l=n("VU/8")({data:function(){return{topTitle:"个人信息"}}},r,!1,function(t){n("ZqLU")},null,null);e.default=l.exports},ZqLU:function(t,e){}});
+//# sourceMappingURL=30.97a3034afeca19504c93.js.map
